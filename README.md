@@ -49,5 +49,4 @@
   </a>
 </p>
 
-> - [Venuja Thilakarathna](https://github.com/Sadew451) 
-> - Special thanks to [Lntechnical2](https://github.com/lntechnical2) 
+> - Special thanks to [Venuja Thilakarathna](https://github.com/VenujaBots) 
