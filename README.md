@@ -49,4 +49,5 @@
   </a>
 </p>
 
+> - Our Translator Bot [Vnd Google Translator](http://t.me/vndgoogletranslatorbot)
 > - Special thanks to [Venuja Thilakarathna](https://github.com/VenujaBots) 
