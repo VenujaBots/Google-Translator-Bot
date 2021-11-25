@@ -12,7 +12,7 @@ from helper.langlist import langlist
 async def start(client, message):
           insert(int(message.chat.id))
           await message.reply_sticker(sticker = "CAACAgUAAxkBAAIwXWGdFtkdePc40RAEHg5-aq3ZTjEcAAJUAwAC8IUpVKjvFkIdnX6EIgQ")
-          await message.reply_text(text =f"👋 Hᴇʟʟᴏ **{message.from_user.first_name }**. \n\nI ᴀᴍ sɪᴍᴘʟᴇ Gᴏᴏɢʟᴇ Tʀᴀɴsʟᴀᴛᴇʀ Bᴏᴛ.**I ᴄᴀɴ ᴛʀᴀɴsʟᴀᴛᴇ ᴀɴʏ ʟᴀɴɢᴜᴀɢᴇ ᴛᴏ ʏᴏᴜ sᴇʟᴇᴄᴛᴇᴅ ʟᴀɴɢᴜᴀɢᴇ.** __\n\n**Pᴏᴡᴇʀᴅ Bʏ** @Venuja_Sadew. 🔥",
+          await message.reply_text(text =f"👋 Hᴇʟʟᴏ **{message.from_user.first_name }**. \n\nI ᴀᴍ sɪᴍᴘʟᴇ Gᴏᴏɢʟᴇ Tʀᴀɴsʟᴀᴛᴇʀ Bᴏᴛ.**I ᴄᴀɴ ᴛʀᴀɴsʟᴀᴛᴇ ᴀɴʏ ʟᴀɴɢᴜᴀɢᴇ ᴛᴏ ʏᴏᴜ sᴇʟᴇᴄᴛᴇᴅ ʟᴀɴɢᴜᴀɢᴇ.** __\n\n**Pᴏᴡᴇʀᴇᴅ Bʏ** @Venuja_Sadew. 🔥",
           reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Sᴜʙsᴄʀɪʙᴇ 🙋‍♀️", url="https://www.youtube.com/channel/UCL8PI42TZ_uaQWVVKUJx9Eg")],
                [InlineKeyboardButton("Bᴏᴛ Sᴜᴘᴘᴏʀᴛ 💬", url="https://t.me/VndBotSupport"),
 	       InlineKeyboardButton("Sᴄᴏᴜʀᴄᴇ 💾", url="https://github.com/VenujaBots/Google-Translator-Bot"),
